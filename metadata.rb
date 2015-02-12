@@ -1,0 +1,7 @@
+name             'vagrant-gateway'
+maintainer       'Stephen Van Zee'
+maintainer_email 'svanzee@caringbridge.org'
+license          'All rights reserved'
+description      'Installs/Configures vagrant-gateway'
+long_description 'Installs/Configures vagrant-gateway'
+version          '0.1.0'
